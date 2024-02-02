@@ -1,0 +1,95 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LaurensApp1
+build_property.ProjectDir = C:\Netprojects\LaurensApp1\LaurensApp1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/NewPage2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.NewPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = NewPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = NewPage2.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/Pages/Calls.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.Pages.Calls.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Calls.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Calls.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/Pages/ChatsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.Pages.ChatsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ChatsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ChatsPage.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/Pages/NewPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.Pages.NewPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NewPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NewPage1.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/Pages/StatusPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.Pages.StatusPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\StatusPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\StatusPage.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/Platforms/Pages/CallLog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.Platforms.Pages.CallLog.xaml
+build_metadata.AdditionalFiles.TargetPath = Platforms\Pages\CallLog.xaml
+build_metadata.AdditionalFiles.RelativePath = Platforms\Pages\CallLog.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/Platforms/Pages/Chats.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.Platforms.Pages.Chats.xaml
+build_metadata.AdditionalFiles.TargetPath = Platforms\Pages\Chats.xaml
+build_metadata.AdditionalFiles.RelativePath = Platforms\Pages\Chats.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/Platforms/Pages/Status.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.Platforms.Pages.Status.xaml
+build_metadata.AdditionalFiles.TargetPath = Platforms\Pages\Status.xaml
+build_metadata.AdditionalFiles.RelativePath = Platforms\Pages\Status.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Netprojects/LaurensApp1/LaurensApp1/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LaurensApp1.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
